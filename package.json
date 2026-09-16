@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "new-article": "npx zenn new:article",
+    "new": "npx zenn new:article",
     "preview": "npx zenn preview"
   },
   "repository": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/pond6/midfocus#readme",
   "dependencies": {
-    "zenn-cli": "^0.5.3"
+    "zenn-cli": "^0.5.4"
   }
 }
